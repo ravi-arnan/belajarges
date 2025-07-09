@@ -1,6 +1,6 @@
 # 🎓 BelajarGes: Aplikasi To-Do List untuk Mahasiswa
 
-![BelajarGes Screenshot](screenshots/image1.jpg)
+<img src="https://github.com/ravi-arnan/belajarges/raw/main/screenshots/image1.jpg" alt="Tampilan BelajarGes1" height="400" width="200"/><img src="https://github.com/ravi-arnan/belajarges/raw/main/screenshots/image2.jpg" alt="Tampilan BelajarGes2" height="400" width="200"/><img src="https://github.com/ravi-arnan/belajarges/raw/main/screenshots/image3.jpg" alt="Tampilan BelajarGes3" height="400" width="200"/><img src="https://github.com/ravi-arnan/belajarges/raw/main/screenshots/image4.jpg" alt="Tampilan BelajarGes4" height="400" width="200"/><img src="https://github.com/ravi-arnan/belajarges/raw/main/screenshots/image6.jpg" alt="Tampilan BelajarGes5" height="400" width="200"/>
 
 **BelajarGes** adalah aplikasi Android yang dirancang khusus untuk membantu mahasiswa dalam mengelola tugas-tugas kuliah mereka. Dengan aplikasi ini, mahasiswa dapat mencatat, melacak, dan mengatur semua tugas berdasarkan mata kuliah, lengkap dengan pengingat deadline agar tidak ada tugas yang terlewat.
 
