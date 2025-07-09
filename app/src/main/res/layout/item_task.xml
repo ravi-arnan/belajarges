@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="8dp">
+
+    <CheckBox
+        android:id="@+id/cb_task_completed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@id/btn_edit_task"
+        android:layout_toEndOf="@id/cb_task_completed"
+        android:orientation="vertical"
+        android:layout_marginStart="8dp">
+
+        <TextView
+            android:id="@+id/tv_task_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            tools:text="Membuat Aplikasi To-Do List" />
+
+        <TextView
+            android:id="@+id/tv_task_deadline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            tools:text="15 Mar 2024, 23:59" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/btn_edit_task"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@id/btn_delete_task"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Edit Tugas"
+        android:src="@drawable/ic_edit"
+        app:tint="@color/grey" />
+
+    <ImageButton
+        android:id="@+id/btn_delete_task"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Hapus Tugas"
+        android:src="@drawable/ic_delete"
+        app:tint="@color/grey" />
+
+</RelativeLayout>
