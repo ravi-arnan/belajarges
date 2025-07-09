@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411358459337",
+    "project_id": "belajarges-282b5",
+    "storage_bucket": "belajarges-282b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411358459337:android:6649b3b90070fe50546418",
+        "android_client_info": {
+          "package_name": "com.dicoding.belajarges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411358459337-9vfqg5pv9j1gjq160luarlbq67qbpvsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.belajarges",
+            "certificate_hash": "7f11fbada1acc464527aa750a910280b33ca6534"
+          }
+        },
+        {
+          "client_id": "411358459337-mjju6juid7gu15m4kqd85a98qnl0s1ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GRNQ5FEQQZe7eXVQ_W0CUGFqjqxkAcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411358459337-mjju6juid7gu15m4kqd85a98qnl0s1ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
