@@ -6,7 +6,6 @@
 
 Aplikasi ini dibangun menggunakan **Java Native** dan terintegrasi dengan **Firebase** untuk otentikasi pengguna dan penyimpanan data secara real-time di cloud.
 
-> 🖼️ *Ganti gambar di atas dengan screenshot aplikasi Anda di folder ``*
 
 ---
 
